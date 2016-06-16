@@ -1,3 +1,4 @@
+# Latex-related
 *.pdf
 *.aux
 *.out
@@ -6,3 +7,6 @@
 *.synctex.gz
 *.tcp
 *.tps
+
+# Mac OS X folder information
+*.DS_Store
